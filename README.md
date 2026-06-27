@@ -63,7 +63,7 @@ Dashboard Images/
 
 ## 📊 Dashboard Preview
 
-Dashboard screenshot available in the **Dashboard Images** folder.
+![Customer Churn Dashboard](Dashboard%20Images/Customer-Churn-Screenshot.png)
 
 ---
 
