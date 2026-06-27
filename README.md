@@ -73,7 +73,7 @@ Dashboard screenshot available in the **Dashboard Images** folder.
 
 Aspiring Data Analyst
 
-##[ Skills
+## Skills
 - Excel
 - SQL
 - Python
